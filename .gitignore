@@ -1,0 +1,20 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & secrets
+.env
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Application logs & saved state
+logs/
+data/
+
+# IDE files
+.vscode/
+.idea/
